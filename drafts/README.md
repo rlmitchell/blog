@@ -1,4 +1,4 @@
 # Rob Mitchell's Blog
-<img style="float: right;" src="https://avatars.githubusercontent.com/u/4431550" />
+<img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/4431550">
 
 
